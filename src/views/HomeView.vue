@@ -2,6 +2,7 @@
   <div class="flex">
     <div class="mx-auto w-2/5 text-gray-700">
       <div class="text-3xl text-black my-12 font-bold">Tong Zhaoqi</div>
+
       <div class="text-base">
         <HomeParagraph>
           Hey, I am <span class="font-bold">Tong Zhaoqi</span>. I am currently studying in
@@ -25,10 +26,11 @@
           .
           I got the <span class="font-bold">Best Implementation</span> award in the topic “Cloud Computing” during the
           2022 Summer Workshop of National University of Singapore.
+          I am also the leader of my basketball team and the vice-leader of Tencent Club of Sichuan University.
         </HomeParagraph>
 
         <div class="flex justify-center">
-          <div class="w-[50px] bg-gray-300 h-[1px] my-10"></div>
+          <div class="w-[50px] bg-gray-300 h-[1px] my-8"></div>
         </div>
 
         <HomeParagraph>
@@ -47,6 +49,10 @@
           Mail me at
           <HomeLink url="tzq0301@gmail.com">tzq0301@gmail.com</HomeLink>
           .
+        </HomeParagraph>
+
+        <HomeParagraph>
+          <a href="https://beian.miit.gov.cn/" class="text-gray-500 text-sm">浙 ICP 备 20029529 号</a>
         </HomeParagraph>
       </div>
     </div>
