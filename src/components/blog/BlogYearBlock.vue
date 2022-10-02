@@ -7,7 +7,7 @@
 const props = defineProps({
   year: {
     required: true,
-    type: Number
+    type: String
   }
 })
 </script>
