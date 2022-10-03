@@ -15,6 +15,11 @@
         </DefaultTimeLineItem>
 
         <DefaultTimeLineItem
+            time="August 2022"
+            name="NUS Summer Workshop | Cloud Computing | Best Implementation">
+        </DefaultTimeLineItem>
+
+        <DefaultTimeLineItem
             time="May 2022"
             name="四川省首届高校志愿服务项目大赛实践项目赛道铜奖">
         </DefaultTimeLineItem>
