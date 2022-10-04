@@ -3,6 +3,8 @@ import HomeView from '../views/HomeView.vue'
 import BlogView from '../views/BlogView.vue'
 import ProjectsView from '../views/ProjectsView.vue'
 import AwardsView from '../views/AwardsView.vue'
+import HowToOptimizeYourCode from "../blogs/2022/HowToOptimizeYourCode.vue"
+import DockerRemoveNoneImages from "../blogs/2022/DockerRemoveNoneImages.vue"
 
 const router = createRouter({
     history: createWebHistory(import.meta.env.BASE_URL),
@@ -15,7 +17,15 @@ const router = createRouter({
         {
             path: '/blog',
             name: 'blog',
-            component: BlogView
+            component: BlogView,
+        },
+        {
+            path: '/blog/how-to-optimize-your-code',
+            component: HowToOptimizeYourCode
+        },
+        {
+            path: '/blog/docker-remove-none-images',
+            component: DockerRemoveNoneImages
         },
         {
             path: '/projects',
