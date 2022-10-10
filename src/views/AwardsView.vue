@@ -52,7 +52,7 @@
       </DefaultTimeLineItem>
 
       <DefaultTimeLineItem
-          time="October 2021"
+          time="October 2020"
           name="四川大学综合二等奖学金">
       </DefaultTimeLineItem>
 
