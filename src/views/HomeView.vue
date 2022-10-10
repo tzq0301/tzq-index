@@ -2,7 +2,7 @@
   <Container title="Tong Zhaoqi">
     <div class="text-base">
       <HomeParagraph>
-        Hey, I am <span class="font-bold">Tong Zhaoqi</span>. I am currently studying in
+        Hey, I am <span class="font-bold">Tong Zhaoqi</span>. I am currently studying at
         <HomeLink url="https://www.scu.edu.cn/">Sichuan University</HomeLink>
         and will enter
         <HomeLink url="https://www.nju.edu.cn/main.htm">Nanjing University</HomeLink>
@@ -10,20 +10,20 @@
       </HomeParagraph>
 
       <HomeParagraph>
-        From 2019 to 2023, I studied in School of Software, Sichuan University, majoring in Software Engineering.
-        I was the <span class="font-bold">7/215</span> in my grade.
+        From 2019 to 2023, I studied at the School of Software, Sichuan University, majoring in Software Engineering.
+        I was <span class="font-bold">7/215</span> in my grade.
         I have won
-        <span class="font-bold">the national second prize of China Software Cup</span> &
-        <span class="font-bold">the national third prize of WeChat Miniprogram Development Competition</span>.
+        <span class="font-bold">the national second prize in China Software Cup</span> &
+        <span class="font-bold">the national third prize in WeChat Miniprogram Development Competition</span>.
         As the project leader, I have hosted the <span class="font-bold">Provincial College Students Innovation Training Program</span>
         and as the second author, I published the thesis
         <HomeLink url="https://pubmed.ncbi.nlm.nih.gov/34764986/">Developing an Embedding, Koopman, and Autoencoder
           technologies-based multi-omics time series predictive model (EKATP) for systems biology research
         </HomeLink>
         .
-        I got the <span class="font-bold">Best Implementation</span> award in the topic “Cloud Computing” during the
+        I got the <span class="font-bold">Best Implementation</span> award on the topic “Cloud Computing” during the
         2022 Summer Workshop of National University of Singapore.
-        I am also the leader of my basketball team and the vice-leader of Tencent Club of Sichuan University.
+        I am also the leader of my basketball team and the vice leader of the Tencent Club of Sichuan University.
       </HomeParagraph>
 
       <div class="flex justify-center">
